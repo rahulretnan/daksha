@@ -4030,19 +4030,19 @@ input:required {
 /*# sourceMappingURL=style.css.map */
 
 
-@media only screen and (min-width: 306px) and (max-width: 767px) {
+@media only screen and (min-width: 306px) and (max-width: 500px) {
     #new-bg {
-        max-width: 100%; max-height: 480px;
+        max-width: 100%; max-height: 380px;
     }
 }
-@media only screen and (min-width: 992px) and (max-width:5040px) {
+@media only screen and (min-width: 766px) and (max-width:5040px) {
     #new-bg {
         max-width: 100%; max-height: 680px;
     }
 }
 
-@media only screen and (min-width: 768px) and (max-width: 991px) {
+@media only screen and (min-width: 501px) and (max-width: 765px) {
     #new-bg {
-        max-width: 100%; max-height: 580px;
+        max-width: 100%; max-height: 400px;
     }
 }
