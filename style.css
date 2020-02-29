@@ -909,7 +909,7 @@ input:required {
 .classy-nav-container .classy-navbar .classynav ul li a {
     font-size: 16px;
     text-transform: uppercase;
-    color: #ffffff;
+    color: #ffffff1a;
     font-weight: 500;
     padding: 0 20px;
 }
@@ -928,7 +928,7 @@ input:required {
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .classy-nav-container .classy-navbar .classynav ul li a {
         font-size: 14px;
-        color: #111343;
+        color: #11134300;
     }
     .classy-nav-container .classy-navbar .classynav ul li a:hover,
     .classy-nav-container .classy-navbar .classynav ul li a:focus {
@@ -997,7 +997,7 @@ input:required {
     -webkit-transition-duration: 500ms;
     -o-transition-duration: 500ms;
     transition-duration: 500ms;
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color:transparent;
 }
 
 .header-area.sticky {
@@ -4028,3 +4028,21 @@ input:required {
 
 
 /*# sourceMappingURL=style.css.map */
+
+
+@media only screen and (min-width: 306px) and (max-width: 767px) {
+    #new-bg {
+        max-width: 100%; max-height: 480px;
+    }
+}
+@media only screen and (min-width: 992px) and (max-width:5040px) {
+    #new-bg {
+        max-width: 100%; max-height: 680px;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    #new-bg {
+        max-width: 100%; max-height: 580px;
+    }
+}
