@@ -3934,8 +3934,9 @@ input:required {
 }
 
 .map-area iframe {
-    height: 300px;
-    width: 400px;
+    display: inline-flex;
+    max-height: 100%;
+    max-width: 100%;
     border: none;
 }
 
