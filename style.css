@@ -909,7 +909,7 @@ input:required {
 .classy-nav-container .classy-navbar .classynav ul li a {
     font-size: 16px;
     text-transform: uppercase;
-    color: #ffffff1a;
+    color: #ffffff;
     font-weight: 500;
     padding: 0 20px;
 }
@@ -1001,7 +1001,7 @@ input:required {
 }
 
 .header-area.sticky {
-    background-color: #000000;
+    background-color: #ffffff07;
     -webkit-box-shadow: 0 2px 40px 8px rgba(15, 15, 15, 0.15);
     box-shadow: 0 2px 40px 8px rgba(15, 15, 15, 0.15);
 }
@@ -1110,7 +1110,7 @@ input:required {
 .welcome-slides .owl-prev:focus,
 .welcome-slides .owl-next:hover,
 .welcome-slides .owl-next:focus {
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(184, 27, 27, 0.5);
     color: #000000;
 }
 
