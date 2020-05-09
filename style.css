@@ -1948,7 +1948,7 @@ input:required {
     -o-transition-duration: 1500ms;
     transition-duration: 1500ms;
     border-radius: 10px;
-    width: 80%;
+    width: 100%;
 }
 
 .single-speaker-area .social-info {
